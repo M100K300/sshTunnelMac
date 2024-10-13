@@ -1,0 +1,51 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.sql
+*.sqlite3
+
+# Visual Studio Code files
+.vscode/
+.history/
+
+# Log files
+*.log
+logs/
+*.log.*
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+#preset files
+ssh_preset.json
