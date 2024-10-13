@@ -73,7 +73,7 @@ The SSH Tunnel Utility helps you to forward ports securely using SSH. This can b
     Open your terminal and run the following command to clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/ssh_tunnel_util.git
+    git clone https://github.com/M100K300/sshTunnelMac.git
     ```
 
 2. **Navigate to the Project Directory**
