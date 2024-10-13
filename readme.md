@@ -113,7 +113,7 @@ To use the SSH Tunnel Utility, follow the instructions provided in the applicati
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ## Contributing
 
